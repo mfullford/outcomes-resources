@@ -11,14 +11,31 @@
 
 ## About Me ReadMe info:
 
-1. What you did you do before GA?
+1. What you did you do before GA? 
+  I worked at a tech start up called Mapbox in DC in Operations/HR/Office management.
+  
 2. What kind of support do you think you'll need most from Outomes?
+  I need to figure out what kind of role I'm interested in and expectations for the different markets.
+  
 3. What were were your Day 1 goals for this course?
+  I want to understand what devs are talking about when they are discussing a javascript project instead of letting it all go over my head.
+  
 4. Give us two truths and a lie about yourself (don't tell us which are which!)
+I was elected for office for a body of people > 54,000
+I went to Agent-Cody-Banks style FBI camp when I was a kid
+I have hiked every 14er in Colorado
+
 5. Provide a link to your LinkedIn Profile 
+https://www.linkedin.com/in/marissa-fullford-a2873482/
+
 6. Describe what kind of company you'd like to work for (i.e. Agency, Startup, etc)
+Startup or large company - super open still. I love the vibe of a start up but I think I could benefit from the resources of a larger, established company.
+
 7. Describe what kind of role you're leaning towards (i.e. Frontend, Backend, etc)
+Frontend!
+
 8. Provide a link to your resume (it should be a file in your repo as well)
+https://www.slideshare.net/slideshow/embed_code/key/2fxebcx4BTMU2G
 
 ## Community
 
